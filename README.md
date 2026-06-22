@@ -88,3 +88,24 @@
 *   **Multipliers:** Append -ya to multiply by ten (e.g., 50 = maya).
 *   **Intermediate:** Add the digit base directly (e.g., 13 = bayana).
 *   **Multiplication:** Use connector dì for higher order (e.g., 100 = bayadìbaya).
+
+---
+
+## 5. EXAMPLE CONVERSATIONS (TACTICAL LOGS)
+
+**Log 1: Construction Report**
+*   **English:** "An engineer is using concrete to build an iron building."
+*   **Petya:** "Blikna buktperkt gekstya strigwatstugt gyat bukt blik feniktbuktstrig."
+
+**Log 2: Tactical Advancement**
+*   **English:** "We are advancing to a fortress."
+*   **Petya:** "Nugyek gyat blik buktstrig drig."
+
+**Log 3: Historical/Formal Account**
+*   **English:** "Our ancient allies fought the strong enemies."
+*   **Petya:** "Nugyek frost noxt, uld kragyek harl gultyek vreg."
+    *   *Note: Uses the Formal Dialect (shifting Galtyek to Gultyek) to signify these are now fallen enemies.*
+
+**Log 4: Mathematical Calculation**
+*   **English:** "We have 58 stones."
+*   **Petya:** "Nugyek mayaka stugtyek."
