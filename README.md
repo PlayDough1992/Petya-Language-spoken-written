@@ -77,14 +77,14 @@
 *   **Rule 3 (Past Tense):**
     *   *Common Dialect:* Shift vowel to "u" and append `-kd` or `-gd`[span_56](start_span)[span_56](end_span).
     *   *Formal Dialect:* Shift noun root vowel to "u" and append `-d` / `-td`[span_57](start_span)[span_57](end_span).
-*   **Rule 4 (Material Prepend):** Prepend material root to structural nouns (e.g., *Fenikt-* + *Buktstrig*)[span_58](start_span)[span_58](end_span).
-*   **Rule 5 (Articles):** Use *Blik* (consonants) or *Blikna* (vowels)[span_59](start_span)[span_59](end_span).
-*   **Rule 6 (Connectors):** *Vist* (with), *Gyat* (to), *Likst* (like), *Trog* (but), *Nagcerkt* (if)[span_60](start_span)[span_60](end_span).
+*   **Rule 4 (Material Prepend):** Prepend material root to structural nouns (e.g., *Fenikt-* + *Buktstrig*)[span_58](start_span)[span_58](end_span)[span_59](start_span)[span_59](end_span).
+*   **Rule 5 (Articles):** Use *Blik* (consonants) or *Blikna* (vowels)[span_60](start_span)[span_60](end_span).
+*   **Rule 6 (Connectors):** *Vist* (with), *Gyat* (to), *Likst* (like), *Trog* (but), *Nagcerkt* (if)[span_61](start_span)[span_61](end_span).
 
 ---
 
 ## 4. MATHEMATICS (BASE-10)
-*   **Digits:** 1 (ba), 2 (ya), 3 (na), 4 (fa), 5 (ma), 6 (ra), 7 (sa), 8 (ka), 9 (ta)[span_61](start_span)[span_61](end_span).
-*   **Multipliers:** Append `-ya` to multiply by ten (e.g., 50 = *maya*)[span_62](start_span)[span_62](end_span)[span_63](start_span)[span_63](end_span).
-*   **Intermediate:** Add the digit base directly (e.g., 13 = *bayana*)[span_64](start_span)[span_64](end_span).
-*   **Multiplication:** Use connector `dì` for higher order (e.g., 100 = *bayadìbaya*)[span_65](start_span)[span_65](end_span).
+*   **Digits:** 1 (ba), 2 (ya), 3 (na), 4 (fa), 5 (ma), 6 (ra), 7 (sa), 8 (ka), 9 (ta)[span_62](start_span)[span_62](end_span).
+*   **Multipliers:** Append `-ya` to multiply by ten (e.g., 50 = *maya*)[span_63](start_span)[span_63](end_span)[span_64](start_span)[span_64](end_span).
+*   **Intermediate:** Add the digit base directly (e.g., 13 = *bayana*)[span_65](start_span)[span_65](end_span).
+*   **Multiplication:** Use connector `dì` for higher order (e.g., 100 = *bayadìbaya*)[span_66](start_span)[span_66](end_span).
